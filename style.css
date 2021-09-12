@@ -1,4 +1,4 @@
-* {
+body {
   text-align: center;
   background-color: #D6E0EA;
 }
@@ -15,15 +15,12 @@ li {
 .main {
   width: 70%;
   max-width: 1000px;
-  min-height: 666px;
+  min-height: 80vh;
   margin: 10px auto;
   background-color: #789ABC;
   border-radius: 50px;
   padding: 100px;
   
-}
-p, h1, h2, ol, ul, li, a{
-  background-color: #789ABC;
 }
 a {
   text-decoration: none;
