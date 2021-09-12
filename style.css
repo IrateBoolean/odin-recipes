@@ -1,5 +1,6 @@
 * {
   text-align: center;
+  background-color: #D6E0EA;
 }
 
 ul {
@@ -14,5 +15,33 @@ li {
 .main {
   width: 70%;
   max-width: 1000px;
+  min-height: 666px;
   margin: 10px auto;
+  background-color: #789ABC;
+  border-radius: 50px;
+  padding: 100px;
+  
 }
+p, h1, h2, ol, ul, li, a{
+  background-color: #789ABC;
+}
+a {
+  text-decoration: none;
+  font-size: 24px;
+  font-family: sans-serif;
+  color: #ABF323;
+}
+
+h1 {
+  padding: 100px 0 0 0;
+  font-size: 100px;
+  font-family: Helvetica;
+}
+
+img {
+  background-color: #9ABCDE;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: -5px 5px 5px rgba(0,0,0,0.2), 5px 5px 5px rgba(0,0,0,0.2);
+}
+
